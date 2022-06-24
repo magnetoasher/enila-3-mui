@@ -60,7 +60,7 @@ const Header = () => {
               sx={{
                 maxHeight: { xs: 56 },
               }}
-              alt="Endla"
+              alt="Enila"
               src="/logo-square.png"
             />
           </Typography>
@@ -121,7 +121,7 @@ const Header = () => {
           >
             <Box
               component="img"
-              alt="Endla"
+              alt="Enila"
               sx={{
                 maxHeight: { xs: 40, md: 36 },
               }}
@@ -160,8 +160,8 @@ const Header = () => {
                 sx={{ p: 0 }}
               >
                 <Avatar
-                  alt="Sam Smith"
-                  src="avatar.jpg"
+                  alt="Ethan Kai"
+                  src="avatar.png"
                 />
               </IconButton>
             </Tooltip>

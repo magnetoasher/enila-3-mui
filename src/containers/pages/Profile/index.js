@@ -3,7 +3,7 @@ import { TableContainer, Table, TableBody, TableRow, TableCell, Typography } fro
 
 const userInfo = {
   fullName: 'Sam Smith',
-  emailAddress: 'sam@endla.com',
+  emailAddress: 'sam@enila.com',
   username: 'samsmith',
 };
 

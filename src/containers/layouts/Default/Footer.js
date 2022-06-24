@@ -9,7 +9,7 @@ const Footer = () => {
         align="center"
         gutterBottom
       >
-        © Endla Pty Ltd {new Date().getFullYear()}
+        © Enila Pty Ltd {new Date().getFullYear()}
         <br />
         Brisbane, Austrailia
       </Typography>

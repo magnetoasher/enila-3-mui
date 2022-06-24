@@ -10,8 +10,8 @@ function createUser(id, firstName, lastName, emailAddress) {
 
 const Users = () => {
   const [users, setUsers] = React.useState([
-    createUser('001', 'Olive', 'Yew', 'yew@endla.com'),
-    createUser('002', 'Aida', 'Bugg', 'bugg@endla.com'),
+    createUser('001', 'Olive', 'Yew', 'yew@enila.com'),
+    createUser('002', 'Aida', 'Bugg', 'bugg@enila.com'),
   ]);
   const [addUserModalOpen, setAddUserModalOpen] = React.useState(false);
 
